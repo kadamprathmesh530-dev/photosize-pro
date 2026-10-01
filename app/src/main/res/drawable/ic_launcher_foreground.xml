@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Compression corner brackets -->
+    <path
+        android:pathData="M26,34 L26,26 L34,26"
+        android:strokeWidth="3"
+        android:strokeColor="#EEF2FF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M82,34 L82,26 L74,26"
+        android:strokeWidth="3"
+        android:strokeColor="#EEF2FF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M26,74 L26,82 L34,82"
+        android:strokeWidth="3"
+        android:strokeColor="#EEF2FF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M82,74 L82,82 L74,82"
+        android:strokeWidth="3"
+        android:strokeColor="#EEF2FF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Photo & Signature Card -->
+    <path
+        android:pathData="M32,30 C30.9,30 30,30.9 30,32 L30,76 C30,77.1 30.9,78 32,78 L76,78 C77.1,78 78,77.1 78,76 L78,32 C78,30.9 77.1,30 76,30 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Avatar portrait on card -->
+    <!-- Head -->
+    <path
+        android:pathData="M54,44 A5.5,5.5 0 1 0 54,33 A5.5,5.5 0 1 0 54,44 Z"
+        android:fillColor="#4F46E5" />
+    <!-- Shoulders -->
+    <path
+        android:pathData="M44,53 C44,49 48,47 54,47 C60,47 64,49 64,53 L44,53 Z"
+        android:fillColor="#4F46E5" />
+
+    <!-- Signature divider line -->
+    <path
+        android:pathData="M36,57 L72,57"
+        android:strokeWidth="1.5"
+        android:strokeColor="#E0E7FF"
+        android:strokeLineCap="round" />
+
+    <!-- Stylized handwritten signature stroke -->
+    <path
+        android:pathData="M38,68 C41,64 43,69 46,65 C49,61 51,71 54,66 C57,61 60,68 64,65 C67,62 70,66 71,64"
+        android:strokeWidth="2.2"
+        android:strokeColor="#7C3AED"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Pro badge in top right -->
+    <path
+        android:pathData="M66,28 L78,28 C80.2,28 82,29.8 82,32 L82,36 C82,38.2 80.2,40 78,40 L66,40 Z"
+        android:fillColor="#10B981" />
+    <path
+        android:pathData="M70,32 L70,38 M70,32 L73,32 C74.1,32 75,32.7 75,33.5 C75,34.3 74.1,35 73,35 L70,35 M75,38 L78,32"
+        android:strokeWidth="1.2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+</vector>

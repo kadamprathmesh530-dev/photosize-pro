@@ -1,0 +1,6 @@
+{
+  "name": "PhotoSize Pro",
+  "description": "Photo, signature and document size compressor for Indian exams and government forms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
